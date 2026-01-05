@@ -784,7 +784,7 @@ def generate_html(ko_data, reiser_data, ko_aggregated, nokkel_data, first_ko_dat
                 <p style="margin: 20px 0;">Interaktivt kart som viser trafikkmønstre i Tromsø sentrum.</p>
 
                 <a href="https://qgiscloud.com/jaleas/Troms__Case/?l=Til%20Kvaløysletta%20Morgen%2CFra%20Kvaløysletta%20Ettermiddag!%2CTil%20Kroken%20Morgen!%2CFra%20Kroken%20Ettermiddag!%2C0-01%20case%5B52%5D%2CGrey&t=Troms__Case&e=2066340%2C10939113%2C2154182%2C10985892" target="_blank">
-                    <img src="https://raw.githubusercontent.com/wdmkkd6ps4-cmd/Tromsø-dashbord/main/data/kart_thumbnail.jpg" class="kart-thumbnail" alt="Kart over Tromsø">
+                    <img src="https://raw.githubusercontent.com/wdmkkd6ps4-cmd/Tromso-dashbord/main/Data/kart_thumbnail.jpg" class="kart-thumbnail" alt="Kart over Tromsø">
                 </a>
 
                 <br>
