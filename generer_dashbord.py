@@ -576,7 +576,7 @@ def generate_html(ko_data, reiser_data, ko_aggregated, nokkel_data, first_ko_dat
     <div class="nav">
         <button class="active" onclick="showPage('hjem')">Hjem</button>
         <button onclick="showPage('forsinkelser')">Forsinkelser og køer</button>
-        <button onclick="showPage('reisestatistikk')">Reisestatistikk Tromsø sentrum</button>
+        <button onclick="showPage('reisestatistikk')">Reisestatistikk Kroken/Kvaløysletta</button>
         <button onclick="showPage('nokkeltall')">Reisestrømmer i Tromsø kommune</button>
         <button onclick="showPage('kart')">Kart</button>
         <button onclick="showPage('hjelp')">Hjelp</button>
@@ -707,7 +707,7 @@ def generate_html(ko_data, reiser_data, ko_aggregated, nokkel_data, first_ko_dat
                     </div>
                     <div class="home-card" onclick="navigateTo('kart')">
                         <h3>🗺️ Kart</h3>
-                        <p>Interaktivt kart over Tromsø sentrum.</p>
+                        <p>Interaktivt kart for Kroken og Kvaløysletta.</p>
                         <ul style="margin-top: 10px; margin-left: 20px;">
                             <li>Trafikkmønstre til/fra sentrum</li>
                             <li>Gjennomfartstrafikk</li>
@@ -716,7 +716,7 @@ def generate_html(ko_data, reiser_data, ko_aggregated, nokkel_data, first_ko_dat
                         </ul>
                     </div>
                     <div class="home-card" onclick="navigateTo('reisestatistikk')">
-                        <h3>🚌 Reisestatistikk Tromsø sentrum</h3>
+                        <h3>🚌 Reisestatistikk Kroken og Kvaløysletta</h3>
                         <p>Statistikk over reiser og reisemønstre.</p>
                         <ul style="margin-top: 10px; margin-left: 20px;">
                             <li>Antall reiser per kvartal</li>
